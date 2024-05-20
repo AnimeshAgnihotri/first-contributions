@@ -6,7 +6,7 @@
 - Rachel W
 - [Arsile](https://github.com/itsarsile)
 - Srihari C
-- AnimeshAgnihotri
+- AnimeshAgnihotri tadaa tadaa
 - [Spec-DY](https://github.com/Spec-DY) - hi! first merge!
 - [Jayesh](https://github.com/generator45)
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
