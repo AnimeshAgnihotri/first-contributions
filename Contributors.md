@@ -5,7 +5,8 @@
 - [CemreTheBoss](https://github.com/cemrenurkeles)
 - Rachel W
 - [Arsile](https://github.com/itsarsile)
-- Srihari C 
+- Srihari C
+- AnimeshAgnihotri
 - [Spec-DY](https://github.com/Spec-DY) - hi! first merge!
 - [Jayesh](https://github.com/generator45)
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
